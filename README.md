@@ -25,7 +25,7 @@ For better classification results:
 
 1. Read [Label images with a custom model on Android](https://developers.google.com/ml-kit/vision/object-detection/custom-models/android)
    on ML Kit's documentation website.
-2. Modify `MLKitObjectAnalyzer.kt` in `src/main/java/com/google/ar/core/examples/java/ml/mlkit/` to specify a custom model.
+2. Modify `MLKitObjectAnalyzer.kt` in `app/src/main/java/com/google/ar/core/examples/java/ml/classification/` to specify a custom model.
 
 ### \[Optional] Configure Google Cloud Vision API
 This sample also supports results from [the Google Cloud Vision API](https://cloud.google.com/vision/docs/object-localizer) for even more information on detected objects.
